@@ -52,6 +52,5 @@ class ConversionViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("conversionviewcontroller加载成功")
     }
 }

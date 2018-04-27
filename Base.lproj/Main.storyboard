@@ -90,10 +90,6 @@
         <scene sceneID="O2L-0B-3yF">
             <objects>
                 <viewController id="p8z-l6-XPS" customClass="MapViewController" customModule="WorldTrotter" customModuleProvider="target" sceneMemberID="viewController">
-                    <mapView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="AXa-et-4ni">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    </mapView>
                     <tabBarItem key="tabBarItem" title="Item" image="MapIcon" id="Kzj-H1-TMb"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oEd-0t-6w9" userLabel="First Responder" sceneMemberID="firstResponder"/>
